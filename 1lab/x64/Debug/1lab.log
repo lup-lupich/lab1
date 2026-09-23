@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\123\source\repos\1lab\1lab\Source.c(32,2): warning C4098: main: функция типа "void", возвращающая значение
+  1lab.vcxproj -> C:\Users\123\source\repos\1lab\x64\Debug\1lab.exe
